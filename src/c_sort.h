@@ -1,5 +1,5 @@
-#ifndef _C_SORT_HPP_
-#define _C_SORT_HPP_
+#ifndef _C_SORT_H_
+#define _C_SORT_H_
 
 #include <stdint.h>
 #include <stdlib.h>
